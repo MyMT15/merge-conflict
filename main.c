@@ -2,12 +2,12 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  Sample Code3
 }
 
 Initial Security()
 {
- //Sample Code
+ Sample Code3
 }
 
 
